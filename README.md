@@ -1,8 +1,8 @@
-﻿# HajimeGo testversie (fase 2)
+﻿# HajimeGo testversie
 
 Browser: https://donnersm.github.io/HajimeGo-web-test/
 
-Bevroren test van toernooi, deelnemers en poules. Data blijft in jouw browser. Nog geen wedstrijden.
+Actuele ontwikkelversie om in de browser te testen. Data blijft in jouw browser.
 
-Handleiding: [FASE2-TEST.md](FASE2-TEST.md). Testdata: [testdata/](testdata/).
+Handleiding: [FASE3-TEST.md](FASE3-TEST.md). Testdata: [testdata/](testdata/).
 Broncode blijft in de privé-repo.

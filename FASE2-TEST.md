@@ -1,10 +1,10 @@
 # Fase 2 — handmatig testen
 
-Status: **te doen**.
+Status: **afgerond** (3 september 2026).
 
 Doel: controleren of poules, voorstel, kwaliteitsscore, indelingsregels, slepen, lock, splitsen/samenvoegen en bevestigen/annuleren kloppen. Wedstrijden, matplanning en live-regie horen **niet** bij deze ronde.
 
-App: [https://donnersm.github.io/HajimeGo/](https://donnersm.github.io/HajimeGo/) (Chrome of Edge) of lokaal [http://localhost:8090](http://localhost:8090). Data zit in die browser op die URL; een andere browser of privévenster is een lege database.
+App: [https://donnersm.github.io/HajimeGo-web-test/](https://donnersm.github.io/HajimeGo-web-test/) (Chrome of Edge) of lokaal [http://localhost:8090](http://localhost:8090). Data zit in die browser op die URL; een andere browser of privévenster is een lege database.
 
 Testdata: dezelfde Excel-bestanden als fase 1, in `docs/testdata/` (`JC-Noord.xlsx`, `JC-Zuid.xlsx`). Fictieve namen.
 
