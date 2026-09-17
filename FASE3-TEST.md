@@ -70,17 +70,17 @@ Iedereen moet Ingeschreven blijven met gewicht (Kim dus **niet** op Niet aanwezi
 
 1. Toernooi → **Wedstrijden** → kaart **Wedstrijdregels**.
    - [ ] Transitietijd (standaard 30 s) en gelijkspel / golden score
-   - [ ] Sectie **Jongens** en **Meisjes**, per klasse een duur **en** drie vinkjes
+   - [ ] Sectie **Heren** en **Dames**, per klasse een duur **en** drie vinkjes
 2. Standaard (niets wijzigen, alleen kijken):
    - [ ] -8 / -10 / -12: **2 min**, alle technieken uit
    - [ ] -15: **3 min**, alleen omstrengelingen aan
    - [ ] -18 / -20 / Senioren: **4 min**, alle drie aan
-3. Zet bij **Meisjes -10 jaar** (of de klasse van jouw damespoule) **Armklemmen** aan. Zet de transitietijd op **45 s**. Opslaan.
+3. Zet bij **Dames -10 jaar** (of de klasse van jouw damespoule) **Armklemmen** aan. Zet de transitietijd op **45 s**. Opslaan.
 4. Terug op Wedstrijden, kijk naar de damespoule.
    - [ ] Armklemmen staat **aan** (overgenomen uit de klasse)
    - [ ] Maximale pouleduur is herberekend (wedstrijden + transitie ertussen)
 5. Open Wedstrijdregels opnieuw.
-   - [ ] Armklemmen bij die meisjesklasse en transitie 45 s zijn bewaard
+   - [ ] Armklemmen bij die damesklasse en transitie 45 s zijn bewaard
 6. Zet armklemmen bij die klasse weer **uit** en transitie terug op **30 s**. Opslaan.
 
 Pouleklasse handmatig wijzigen (rood) en **Default** horen ook: de vinkjes volgen dan weer de (nieuwe) klasse. Optioneel meenemen als je tijd hebt.
